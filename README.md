@@ -1,4 +1,4 @@
-# Git toturial
+# Git tutorial
 
 
 git tutorial detatils here
